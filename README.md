@@ -15,7 +15,7 @@
 
 ---
 
-欢迎参观我的 <a href="hitomichi.top">博客</a>，会有一些学习记录，也有日常的随笔。博客里有更为详细的个人介绍。
+欢迎参观我的 <a href="https://hitomichi.top">博客</a>，会有一些学习记录，也有日常的随笔。博客里有更为详细的个人介绍。
 
 如果可能的话，可以在 <a href="https://github.com/KenenHitomichi/KenenHitomichi/issues">留言板</a> 写下一些话语，我会不定期地回复，希望能与你成为朋友。
 
